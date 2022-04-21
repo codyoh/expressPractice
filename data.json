@@ -1,0 +1,55 @@
+{
+    "soccer": {
+        "name": "Soccer",
+        "subscribers": 80000,
+        "description": "The football subreddit.",
+        "posts": [
+            {
+                "title": "Scoring a gooooooaaaal",
+                "author": "futbolFan01"
+            },
+            {
+                "title": "Old Player Retires",
+                "author": "SoccerBaller"
+            },
+            {
+                "title": "LA LA LA SOCCER?",
+                "author": "ballkicker"
+            }
+        ]
+    },
+    "chickens": {
+        "name": "Chickens",
+        "subscribers": 43053,
+        "description": "Everybody loves chickens, right?",
+        "posts": [
+            {
+                "title": "Bad chicken hides under the shed",
+                "author": "chikfilet",
+                "img": ""
+            },
+            {
+                "title": "Chicken tenders!",
+                "author": "hungryLad",
+                "img": ""
+            }
+        ]
+    },
+    "mightyHarvest": {
+        "name": "mightyHarvest",
+        "subscribers": 43053,
+        "description": "Everybody loves veggies, right?",
+        "posts": [
+            {
+                "title": "Bad chicken hides under the shed",
+                "author": "chikfilet",
+                "img": ""
+            },
+            {
+                "title": "Chicken tenders!",
+                "author": "hungryLad",
+                "img": ""
+            }
+        ]
+    }
+}

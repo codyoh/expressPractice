@@ -1,0 +1,10 @@
+<%- include('partials/head') %>
+
+    <h1>All Plants</h1>
+    <ul>
+    <% for(let plant of allPlants){ %>
+        <li> <%= plant %></li>
+    <% } %>
+    </ul>
+
+<%- include('partials/footer') %>
